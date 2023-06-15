@@ -4,9 +4,6 @@ As a fast learner and focused developer, I thrive on challenges that push me to 
 
 Outside of work, I have a passion for traveling, acquiring new skills like sailing and learning languages, and a deep appreciation for good cuisine.
 
-### Languages
-[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=katarzynabogumil&langs_count=5&theme=swift)]()
-
 ### Frontend development
 <p align-"left">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
@@ -30,3 +27,7 @@ Outside of work, I have a passion for traveling, acquiring new skills like saili
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </p>
+
+<br/>
+
+[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=katarzynabogumil&langs_count=5&theme=swift)]()
