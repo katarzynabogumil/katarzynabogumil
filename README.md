@@ -1,6 +1,6 @@
 **Full-Stack Software Engineer, experienced with JavaScript and Python technologies. Skilled in Angular, React, Node, Express, Koa, MongoDB, SQL and Django.**
 
-As a fast learner and focused developer, I thrive on challenges that push me to grow, constantly seeking opportunities to expand my knowledge and skill set. My ability to think in a modular and organized manner enables me to break down complex problems and deliver efficient solutions. During my prior professional journey as an architect, I developed strong communication and problem-solving skills. I take pride in my ability to see projects through to completion and deliver high-quality work.
+As a focused and adaptable developer, I thrive on challenges that push me to grow, constantly seeking opportunities to expand my knowledge and skill set. My ability to think in a modular and organized manner enables me to break down complex problems and deliver efficient solutions. During my prior professional journey as an architect, I developed strong communication and problem-solving skills. I take pride in my ability to see projects through to completion and deliver high-quality work.
 
 Outside of work, I have a passion for traveling, acquiring new skills like sailing and learning languages, and a deep appreciation for good cuisine.
 
