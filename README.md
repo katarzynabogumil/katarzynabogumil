@@ -31,4 +31,4 @@ Outside of work, I have a passion for traveling, acquiring new skills like saili
 
 <br/>
 
-[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=katarzynabogumil&langs_count=5&theme=graywhite)]()
+[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=katarzynabogumil&langs_count=5&exclude_repo=nand2tetris&theme=graywhite)]()
